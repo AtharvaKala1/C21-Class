@@ -1,2 +1,2 @@
-# C21-Class
-bounceOff and colision algorithm - my library
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
